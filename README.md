@@ -14,13 +14,13 @@ This interactive Excel dashboard provides a comprehensive overview of a retail s
 
 The dashboard was built using :-
 
---> Microsoft Excel: Data cleaning, transformation, and dashboard creation
+--> Microsoft Excel: Data cleaning, transformation and dashboard creation
 
 --> Pivot Tables & Pivot Charts: For summarizing and visualizing data
 
 --> Charts Used: Bar chart, Line chart, Pie chart, Column chart (Stacked & Clustered)
 
---> Dashboard Design: Clean layout, dynamic visuals, and intuitive interface
+--> Dashboard Design: Clean layout, dynamic visuals and intuitive interface
 
 # ✨Data Source 
 The dataset used in this dashboard project was taken from a YouTube Excel tutorial by Rishabh Mishra. It is a sample dataset used for educational and non-commercial purposes.
@@ -33,7 +33,7 @@ The dataset used in this dashboard project was taken from a YouTube Excel tutori
 
 🌍 Regional Sales Breakdown highlighting top 5 states by revenue
 
-🔁 Order Status Visualization to monitor delivery, return, cancellation, and refund trends
+🔁 Order Status Visualization to monitor delivery, return, cancellation and refund trends
 
 🛍️ Channel-Wise Sales Analysis to identify key sales platforms (Amazon, Flipkart, Myntra, etc.)
 
